@@ -2,9 +2,6 @@
 # This file showcase the Python capabilities to perform data collection, cleaning, manipulation and reporting
 # Potential useful commands: pd.read_csv, print(df.head()), len(df), df['column'], reset_index(), range(len(df))
 
-print('I am going to build up my skills in analytics')
+########## This is a developing project ##########
 
-import numpy as np
-import pandas as pd
-import matplotlib as plt
-
+[Python_CovidDataVIC.pdf](https://github.com/JerryX2021/Python_for_Data_Analytics/files/7629762/Python_CovidDataVIC.pdf)
