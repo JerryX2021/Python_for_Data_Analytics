@@ -1,3 +1,3 @@
-# Python_for_Data_Analytics
+# Backup
 Data analytics using Python 3 and Jupyter Notebook.
-This branck contains the Jupyter Notebook and its related raw data for this project.
+This branck contains the backup of Jupyter Notebook for Covid_data_analytics.
