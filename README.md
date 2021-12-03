@@ -8,4 +8,4 @@ At the time of writing this notebook (end of 2021), we are still in the jungle o
 
 In this project, I perform data analytics of the Victorian Covid-19 data to understand how Covid-19 has affected the Victorian community and what insights/improvements can be informed. Hopefully, this can shed light on our understanding of contagious diseases and better prepare the community for future health challenges. Together, we can reach the other side of the tunnel! :sun_with_face:
 
-I credit to the Victorian Department of Health and the  Australian bureau of statistics for providing freely accessible data utilized in this project. :clap:
+I credit to the Victorian Department of Health and the  Australian Bureau of Statistics for providing freely accessible data utilized in this project. :clap:
