@@ -1,4 +1,5 @@
-# Python_for_Data_Analytics
+# Python for data analytics
+
 Data analytics using Python 3 and Jupyter Notebook. 
 
 In this notebook, I explore the skills of data analytics using Python (numpy, pandas, matplotlib, seaborn) to read, inspect, clean, manipulation, visualise and report data.
