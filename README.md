@@ -2,7 +2,7 @@
 
 Data analytics using Python 3 and Jupyter Notebook. 
 
-In this notebook, I explore the skills of data analytics using Python (numpy, pandas, matplotlib, seaborn) to read, inspect, clean, manipulation, visualise and report data.
+In this notebook, I explore the skills of data analytics using Python (numpy, pandas, matplotlib, seaborn) to read, inspect, clean, manipulate, visualise and report data.
 
 At the time of writing this notebook (end of 2021), we are still in the jungle of a global pandemic. Covid-19 has fundamentally changed the way people work, live, and socialize. It has sadly taken millions of lives and affected people's livelihood tremendously. :earth_asia: In Australia, people's lives :heart:, health :mask:, mental fitness :disappointed:, jobs :computer: have been impacted by lengthy lockdowns, outbreaks and border closure. Victoria, a southern state in Australia with a population of over 6 million, is one of the hardest hit place by Covid-19. :broken_heart:
 
